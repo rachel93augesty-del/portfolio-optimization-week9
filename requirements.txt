@@ -1,10 +1,13 @@
-#Task=-1 requirements
+#Task=2 requirements
 pandas
 numpy
-yfinance
 matplotlib
 seaborn
-scipy
 statsmodels
-pytest
+pmdarima
+scikit-learn
+tensorflow
+keras
+tqdm
+joblib
 jupyter
