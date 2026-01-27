@@ -1,10 +1,10 @@
-name: Unit Tests - Task 3
+name: Unit Tests - Task 4
 
 on:
   push:
     branches:
       - main
-      - task-3
+      - task-4
   pull_request:
     branches:
       - main
