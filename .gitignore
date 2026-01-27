@@ -28,3 +28,4 @@ Thumbs.db
 
 # Data files (optional - include if data is large)
 data/
+models/
