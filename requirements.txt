@@ -1,13 +1,16 @@
-# Task=3 requirements
+# Task=4 requirements
+# Core data manipulation and numerical packages
 pandas
 numpy
+
+# Visualization
 matplotlib
 seaborn
-statsmodels
-pmdarima
-scikit-learn
-tensorflow
-keras
-tqdm
-joblib
-jupyter
+
+# Financial/portfolio optimization
+PyPortfolioOpt
+scipy
+
+# Optional utilities
+tqdm   # for progress bars if running simulations
+joblib # to save/load optimized portfolio objects
